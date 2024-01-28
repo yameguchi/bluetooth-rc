@@ -16,7 +16,7 @@ The send.py includes the program run by the host computer to send the mouse move
 
 ## Images
 <div align="center">
-  <img src="imgs/blrc1.png" alt="Logo" width="600" height="auto">
+  <img src="imgs/blrc1.jpg" alt="Logo" width="600" height="auto">
 </div>
 <div align="center">
   <img src="imgs/blrc2.png" alt="Logo" width="600" height="auto">
