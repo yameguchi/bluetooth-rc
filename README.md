@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yameguchi/bluetooth-rc">
-    <img src="imgs/blrc0.png" alt="Logo" width="320" height="180">
+    <img src="imgs/blrc0.png" alt="Logo" width="500" height="auto">
   </a>
 </div>
 
@@ -22,5 +22,5 @@ The send.py includes the program run by the host computer to send the mouse move
   <img src="imgs/blrc2.png" alt="Logo" width="600" height="auto">
 </div>     
 <div align="center">
-  <img src="imgs/blrc3.png" alt="Logo" width="600" height="auto">
+  <img src="imgs/blrc3.jpg" alt="Logo" width="600" height="auto">
 </div>     
